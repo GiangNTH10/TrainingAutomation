@@ -1,5 +1,6 @@
 package HinhHoc;
 //test
+//test1
 public abstract class Hinh {
 	private double canh1;
 	private double canh2;
